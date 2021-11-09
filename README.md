@@ -2,5 +2,7 @@
 
 周りも巻き込んでもっと先へ
 
-## ホームページ
-https://begrad-official.studio.site
+## Links
+
+* [ホームページ](https://begrad-official.studio.site)
+* [Twitter](https://twitter.com/BegradOfficial)
