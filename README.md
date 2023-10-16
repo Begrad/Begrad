@@ -14,9 +14,11 @@ Begradの被支援クリエイター（スポンシー）になることで、<b
 まだまだ始まったばかりの団体ですので、
 ご支援、ご協力をお願いいたします。
 
-何かあれば気軽に代表のmrまでご連絡ください。
+何かあれば気軽に代表の--- mr ---までご連絡ください。
 
 ## Links
 
 * [ホームページ](https://begrad-official.studio.site)
 * [Twitter](https://twitter.com/BegradOfficial)
+
+## 会社概要
